@@ -42,5 +42,4 @@ The files of the folder are as follows:
 
 ## 🎓 Authors
 
-1. Adnan Abbas Rizvi
-2. Prakhar Moses
+1. Prakhar Moses
